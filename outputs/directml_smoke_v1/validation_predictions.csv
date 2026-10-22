@@ -1,0 +1,9 @@
+image_id,path,class,prediction,confidence
+00011,c:\Users\Danie\OneDrive\Documents\GitHub\Kaggle-Competition-2026\enge-707-2026-s-2-cat-and-dog-facial-feature-classification-ch (1)\train\train\00011.jpg,CatFace,CatEye,0.18801287
+00014,c:\Users\Danie\OneDrive\Documents\GitHub\Kaggle-Competition-2026\enge-707-2026-s-2-cat-and-dog-facial-feature-classification-ch (1)\train\train\00014.jpg,CatFace,DogMouth,0.16691998
+00019,c:\Users\Danie\OneDrive\Documents\GitHub\Kaggle-Competition-2026\enge-707-2026-s-2-cat-and-dog-facial-feature-classification-ch (1)\train\train\00019.jpg,DogEye,DogFace,0.16007008
+00023,c:\Users\Danie\OneDrive\Documents\GitHub\Kaggle-Competition-2026\enge-707-2026-s-2-cat-and-dog-facial-feature-classification-ch (1)\train\train\00023.jpg,CatFace,CatFace,0.17278898
+00030,c:\Users\Danie\OneDrive\Documents\GitHub\Kaggle-Competition-2026\enge-707-2026-s-2-cat-and-dog-facial-feature-classification-ch (1)\train\train\00030.jpg,CatEye,CatEye,0.19319987
+00031,c:\Users\Danie\OneDrive\Documents\GitHub\Kaggle-Competition-2026\enge-707-2026-s-2-cat-and-dog-facial-feature-classification-ch (1)\train\train\00031.jpg,CatFace,DogFace,0.2239093
+00032,c:\Users\Danie\OneDrive\Documents\GitHub\Kaggle-Competition-2026\enge-707-2026-s-2-cat-and-dog-facial-feature-classification-ch (1)\train\train\00032.jpg,DogEye,CatMouth,0.15351401
+00038,c:\Users\Danie\OneDrive\Documents\GitHub\Kaggle-Competition-2026\enge-707-2026-s-2-cat-and-dog-facial-feature-classification-ch (1)\train\train\00038.jpg,DogEye,CatEye,0.25639427
