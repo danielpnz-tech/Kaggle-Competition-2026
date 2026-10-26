@@ -1,0 +1,10 @@
+{
+  "validation_images": 12732,
+  "normal_correct": 12490,
+  "tta_correct": 12501,
+  "normal_accuracy": 0.9809927741124725,
+  "tta_accuracy": 0.9818567389255419,
+  "tta_improved": true,
+  "corrected_errors": 23,
+  "introduced_errors": 12
+}

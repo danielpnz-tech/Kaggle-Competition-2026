@@ -1,0 +1,9 @@
+,CatEye,CatFace,CatMouth,CatNose,DogEye,DogFace,DogMouth,DogNose
+CatEye,2753,1,3,5,14,0,1,0
+CatFace,2,1387,0,0,0,0,0,0
+CatMouth,12,3,1354,12,2,0,5,0
+CatNose,16,1,63,1296,7,0,1,4
+DogEye,21,0,0,2,2288,3,2,0
+DogFace,0,0,1,0,1,1153,2,1
+DogMouth,1,0,3,1,3,6,1138,6
+DogNose,6,1,0,5,6,0,19,1121

@@ -1,0 +1,19 @@
+{
+  "checkpoint": "C:\\Users\\Danie\\OneDrive\\Documents\\GitHub\\Kaggle-Competition-2026\\outputs\\directml_finetune_v8\\best_model.pt",
+  "checkpoint_sha256": "0c23b0be68f3df611c086c75a0b1085c82c81842777608a64e1a1232fe770c6c",
+  "checkpoint_epoch": 2,
+  "classes": [
+    "CatEye",
+    "CatFace",
+    "CatMouth",
+    "CatNose",
+    "DogEye",
+    "DogFace",
+    "DogMouth",
+    "DogNose"
+  ],
+  "saved_validation_accuracy": 0.9809927741124725,
+  "image_size": 224,
+  "batch_size": 4,
+  "method": "equal average of original and horizontal-flip probabilities"
+}

@@ -1,0 +1,6 @@
+{
+  "loss": 0.12546817924537434,
+  "accuracy": 0.9742381401193843,
+  "checkpoint_epoch": 2,
+  "smoke_test": false
+}
